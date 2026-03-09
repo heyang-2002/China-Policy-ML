@@ -17,6 +17,15 @@ The project uses the following methods:
 - Supervised machine learning classification
 - Model evaluation using F1 score and accuracy
 
+## Repository Structure
+
+code/
+R scripts used for data collection, preprocessing, and model training.
+
+data/
+Dataset
+
+
 ## Author
 
 Heyang Liu  
