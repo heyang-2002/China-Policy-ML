@@ -19,12 +19,11 @@ The project uses the following methods:
 
 ## Repository Structure
 
-code/
+Code/
 R scripts used for data collection, preprocessing, and model training.
 
-data/
-Dataset
-
+Data/
+Sample dataset used for training.
 
 ## Author
 
