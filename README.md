@@ -25,6 +25,9 @@ R scripts used for data collection, preprocessing, and model training.
 Data/
 Sample dataset used for training.
 
+Result/
+Outputs.
+
 ## Author
 
 Heyang Liu  
